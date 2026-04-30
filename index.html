@@ -2027,6 +2027,7 @@ document.querySelectorAll('[data-reveal]').forEach(el => io.observe(el));
       const msg = f.validate(f.el.value);
       const errEl = f.el.parentElement.querySelector('.err-msg');
       if (msg) { f.el.classList.add('error'); errEl.textContent = msg; }
+      if (errEl) errEl.textContent = msg;
       else { f.el.classList.remove('error'); errEl.textContent = ''; }
     });
     f.el.addEventListener('input', () => {
