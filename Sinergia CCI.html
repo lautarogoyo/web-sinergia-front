@@ -2011,15 +2011,18 @@ document.querySelectorAll('[data-reveal]').forEach(el => io.observe(el));
 
 /* ================= FORM VALIDATION ================= */
 (function () {
-  const form = document.getElementById('contactForm');
+  const form = document.getElementById('formulario-contacto');
   const success = document.getElementById('successMsg');
+  const btn = form.querySelector("button[type=submit]");
+
   const fields = {
-    name: { el: document.getElementById('f-name'), validate: v => v.trim().length >= 2 ? '' : 'Por favor, su nombre' },
-    email: { el: document.getElementById('f-email'), validate: v => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.trim()) ? '' : 'Email inválido' },
-    message: { el: document.getElementById('f-msg'), validate: v => v.trim().length >= 10 ? '' : 'Cuéntenos un poco más' },
+    name:    { el: document.getElementById('f-name'),    validate: v => v.trim().length >= 2 ? '' : 'Por favor, su nombre' },
+    email:   { el: document.getElementById('f-email'),   validate: v => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.trim()) ? '' : 'Email inválido' },
+    message: { el: document.getElementById('f-msg'),     validate: v => v.trim().length >= 10 ? '' : 'Cuéntenos un poco más' },
   };
 
-  Object.entries(fields).forEach(([k, f]) => {
+  // Validación en tiempo real
+  Object.values(fields).forEach(f => {
     f.el.addEventListener('blur', () => {
       const msg = f.validate(f.el.value);
       const errEl = f.el.parentElement.querySelector('.err-msg');
@@ -2035,8 +2038,11 @@ document.querySelectorAll('[data-reveal]').forEach(el => io.observe(el));
     });
   });
 
-  form.addEventListener('submit', (e) => {
+  // Submit
+  form.addEventListener('submit', async (e) => {
     e.preventDefault();
+
+    // 1. Validación
     let ok = true;
     Object.values(fields).forEach(f => {
       const msg = f.validate(f.el.value);
@@ -2045,8 +2051,41 @@ document.querySelectorAll('[data-reveal]').forEach(el => io.observe(el));
       else { f.el.classList.remove('error'); errEl.textContent = ''; }
     });
     if (!ok) return;
-    form.style.display = 'none';
-    success.classList.add('show');
+
+    // 2. Envío
+    btn.disabled = true;
+    btn.innerHTML = 'Enviando...';
+
+    const datos = {
+      nombre:   document.getElementById('f-name').value,
+      email:    document.getElementById('f-email').value,
+      telefono: document.getElementById('f-phone').value,
+      empresa:  document.getElementById('f-company').value,
+      mensaje:  document.getElementById('f-msg').value,
+    };
+
+    try {
+      const res = await fetch('https://web-sinergia-production.up.railway.app/api/contacto', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(datos),
+      });
+
+      const json = await res.json();
+
+      if (json.ok) {
+        form.style.display = 'none';
+        success.classList.add('show');
+      } else {
+        alert('❌ Hubo un error. Intentá de nuevo.');
+      }
+    } catch (err) {
+      console.error(err);
+      alert('❌ No se pudo conectar con el servidor.');
+    } finally {
+      btn.disabled = false;
+      btn.innerHTML = `Enviar <svg class="arrow" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 12L12 4M12 4H6M12 4V10"></path></svg>`;
+    }
   });
 })();
 
@@ -2118,48 +2157,6 @@ document.querySelectorAll('[data-reveal]').forEach(el => io.observe(el));
 // Pegá esto en el JS de tu landing page
 // Reemplazá el selector del formulario si tiene otro id/clase
 
-document.querySelector("#formulario-contacto").addEventListener("submit", async (e) => {
-  e.preventDefault();
-
-  const btn = e.target.querySelector("button[type=submit]");
-  const mensajeEstado = document.querySelector("#mensaje-estado"); // opcional
-
-  btn.disabled = true;
-  btn.textContent = "Enviando...";
-
-  const datos = {
-    nombre:  e.target.nombre.value,
-    email:   e.target.email.value,
-    telefono: e.target.telefono.value,
-    empresa: e.target.empresa.value,
-    mensaje: e.target.mensaje.value,
-  };
-
-  try {
-    const res = await fetch("https://web-sinergia-production.up.railway.app/api/contacto", {
-      // En producción cambiá localhost por tu dominio:
-      // "https://tudominio.com/api/contacto"
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(datos),
-    });
-
-    const json = await res.json();
-
-    if (json.ok) {
-      if (mensajeEstado) mensajeEstado.textContent = "✅ Mensaje enviado. ¡Te contactamos pronto!";
-      e.target.reset();
-    } else {
-      if (mensajeEstado) mensajeEstado.textContent = "❌ Hubo un error. Intentá de nuevo.";
-    }
-  } catch (err) {
-    console.error(err);
-    if (mensajeEstado) mensajeEstado.textContent = "❌ No se pudo conectar con el servidor.";
-  } finally {
-    btn.disabled = false;
-    btn.textContent = "Enviar";
-  }
-});
 </script>
 
 
@@ -2197,55 +2194,29 @@ document.querySelector("#formulario-contacto").addEventListener("submit", async 
 
 <!-- ============ WHATSAPP BUTTON ============ -->
 <style>
-  #wa-btn { transition: background 0.25s, transform 0.25s, box-shadow 0.25s; }
-  #wa-btn[data-style="1"] { background: var(--c-blue); box-shadow: 0 4px 20px -6px rgba(33,88,176,0.45); }
-  #wa-btn[data-style="1"]:hover { background: #1a1815; box-shadow: 0 8px 28px -6px rgba(0,0,0,0.5); }
-  #wa-btn[data-style="2"] { background: var(--accent); box-shadow: 0 4px 20px -6px rgba(242,141,15,0.45); }
-  #wa-btn[data-style="2"]:hover { background: var(--c-blue); box-shadow: 0 8px 28px -6px rgba(33,88,176,0.5); }
-  #wa-btn[data-style="3"] { background: var(--accent); box-shadow: 0 4px 20px -6px rgba(242,141,15,0.45); }
-  #wa-btn[data-style="3"]:hover { background: #1a1815; box-shadow: 0 8px 28px -6px rgba(0,0,0,0.5); }
-
-  #wa-picker { position:fixed; bottom:88px; right:22px; z-index:99; display:flex; flex-direction:column; gap:6px; align-items:flex-end; }
-  .wa-opt { width:28px; height:28px; border-radius:50%; cursor:pointer; border:2px solid transparent; transition:transform 0.2s, border-color 0.2s; display:flex; align-items:center; justify-content:center; }
-  .wa-opt:hover { transform:scale(1.15); }
-  .wa-opt.active { border-color: #fff; box-shadow:0 2px 10px rgba(0,0,0,0.25); }
-  .wa-opt-label { font-family:var(--mono); font-size:9px; letter-spacing:0.08em; color:var(--ink-mute); text-align:right; }
+  #wa-btn { transition: background 0.25s, transform 0.25s, box-shadow 0.25s; background: var(--c-blue); box-shadow: 0 4px 20px -6px rgba(33,88,176,0.45); }
+  #wa-btn:hover { background: #1a1815; box-shadow: 0 8px 28px -6px rgba(0,0,0,0.5); }
 </style>
 
-<div id="wa-picker">
-  <span class="wa-opt-label">Estilo botón</span>
-  <div class="wa-opt active" data-s="1" style="background:linear-gradient(135deg,var(--c-blue),#1a1815)" title="Azul → Negro" onclick="setWaStyle(1)"></div>
-  <div class="wa-opt" data-s="2" style="background:linear-gradient(135deg,var(--accent),var(--c-blue))" title="Naranja → Azul" onclick="setWaStyle(2)"></div>
-  <div class="wa-opt" data-s="3" style="background:linear-gradient(135deg,var(--accent),#1a1815)" title="Naranja → Negro" onclick="setWaStyle(3)"></div>
-</div>
-
-<a href="https://wa.me/5493412285070" target="_blank" id="wa-btn" data-style="1" aria-label="Contactar por WhatsApp"
+<a href="https://wa.me/5493412285070" target="_blank" id="wa-btn" aria-label="Contactar por WhatsApp"
   style="position:fixed;bottom:28px;right:28px;z-index:99;width:52px;height:52px;border-radius:50%;display:flex;align-items:center;justify-content:center;text-decoration:none;">
   <i class="fa-brands fa-whatsapp" style="font-size:26px;color:#fff;"></i>
 </a>
 
 <script>
-function setWaStyle(n) {
-  document.getElementById('wa-btn').dataset.style = n;
-  document.querySelectorAll('.wa-opt').forEach(el => el.classList.toggle('active', +el.dataset.s === n));
-}
-
 // Mobile: tap a service row to slide its description down
 (function () {
   const mq = window.matchMedia('(max-width: 860px)');
   document.querySelectorAll('.service-row').forEach(row => {
     row.addEventListener('click', e => {
       if (!mq.matches) return;
-      // ignore clicks on actual links inside (none here, but safe)
       if (e.target.closest('a')) return;
       e.preventDefault();
       const wasOpen = row.classList.contains('open');
-      // close siblings for an accordion feel
       row.parentElement.querySelectorAll('.service-row.open').forEach(r => r.classList.remove('open'));
       if (!wasOpen) row.classList.add('open');
     });
   });
-  // Reset on resize back to desktop
   mq.addEventListener('change', e => {
     if (!e.matches) {
       document.querySelectorAll('.service-row.open').forEach(r => r.classList.remove('open'));
