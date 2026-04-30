@@ -1,0 +1,691 @@
+[
+  {
+    "id": "cap_mo7s0e5a_08psoq",
+    "selector": "header.fixed",
+    "label": "Inicio Nosotros Servicios Cómo Trabajamo…",
+    "tag": "header",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-20T22:38:16.990Z",
+    "innerText": "Inicio\nNosotros\nServicios\nCómo Trabajamos\nContacto\nCotizar",
+    "outerHTML": "<header class=\"fixed w-full top-0 z-50 transition-all duration-300 bg-transparent border-0 border-gray-100\"><nav class=\"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8\"><div class=\"flex justify-between items-center h-16 md:h-20\"><a href=\"#home\" class=\"flex items-center gap-2 group z-50 relative\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img src=\"/BacsLogoAzul.png\" alt=\"Bacs Logo\" class=\"h-10 w-auto group-hover:scale-110 transition-transform\"></a><div class=\"hidden md:flex items-center gap-8\"><a href=\"#home\" class=\"text-secondary text-sm font-secondary hover:text-primary transition-colors duration-200\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\">Inicio</a><a href=\"#nosotros\" class=\"text-secondary text-sm font-secondary hover:text-primary transition-colors duration-200\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\">Nosotros</a><a href=\"#servicios\" class=\"text-secondary text-sm font-secondary hover:text-primary transition-colors duration-200\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\">Servicios</a><a href=\"#como-trabajamos\" class=\"text-secondary text-sm font-secondary hover:text-primary transition-colors duration-200\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\">Cómo Trabajamos</a><a href=\"#contacto\" class=\"text-secondary text-sm font-secondary hover:text-primary transition-colors duration-200\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\">Contacto</a></div><div class=\"hidden md:flex items-center gap-4\"><a href=\"#contacto\" class=\"bg-primary text-white px-6 py-2.5 rounded-full font-primary font-bold text-sm hover:shadow-lg transition-all duration-200 hover:scale-105\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Cotizar </a></div><button class=\"md:hidden p-2 rounded-lg hover:bg-gray-100 transition-colors z-50 relative\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"24\" height=\"24\" fill=\"currentColor\" class=\"text-secondary\"><g><path d=\"M228,128a12,12,0,0,1-12,12H40a12,12,0,0,1,0-24H216A12,12,0,0,1,228,128ZM40,76H216a12,12,0,0,0,0-24H40a12,12,0,0,0,0,24ZM216,180H40a12,12,0,0,0,0,24H216a12,12,0,0,0,0-24Z\"></path></g></svg></button></div><!----></nav></header>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1692,
+      "height": 80
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "fixed",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "818px",
+      "left": "0px",
+      "width": "1692px",
+      "height": "80px",
+      "border": "0px solid rgb(243, 244, 246)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "z-index": "50",
+      "transition": "0.3s cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".fixed",
+        "css": "position: fixed;"
+      },
+      {
+        "selector": ".top-0",
+        "css": "top: 0px;"
+      },
+      {
+        "selector": ".z-50",
+        "css": "z-index: 50;"
+      },
+      {
+        "selector": ".w-full",
+        "css": "width: 100%;"
+      },
+      {
+        "selector": ".border-0",
+        "css": "border-width: 0px;"
+      },
+      {
+        "selector": ".border-gray-100",
+        "css": "--tw-border-opacity: 1; border-color: rgb(243 244 246 / var(--tw-border-opacity, 1));"
+      },
+      {
+        "selector": ".bg-transparent",
+        "css": "background-color: transparent;"
+      },
+      {
+        "selector": ".transition-all",
+        "css": "transition-property: all; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-duration: 0.15s;"
+      },
+      {
+        "selector": ".duration-300",
+        "css": "transition-duration: 0.3s;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mo7s0gl3_bp9r3y",
+    "selector": "canvas",
+    "label": "canvas",
+    "tag": "canvas",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-20T22:38:20.152Z",
+    "innerText": "",
+    "outerHTML": "<canvas data-engine=\"three.js r178\" width=\"2538\" height=\"1347\" style=\"display: block; width: 100%; height: 100%;\"></canvas>",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1692,
+      "height": 898
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1692px",
+      "height": "898px",
+      "border": "0px solid rgb(229, 231, 235)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "display: block; vertical-align: middle;"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mo7s0n1f_iri1sz",
+    "selector": "section.py-20",
+    "label": "Compañías con las que trabajamos Empresa…",
+    "tag": "section",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-20T22:38:28.515Z",
+    "innerText": "Compañías con las que trabajamos\n\nEmpresas líderes en logística y transporte en toda la región confían en Bacs para su protección.\n\nConfían en nosotros más de 50 empresas en el sector logístico y de transporte",
+    "outerHTML": "<section data-v-4a124ba2=\"\" class=\"py-20 md:py-24 bg-gray-50 overflow-hidden\"><div data-v-4a124ba2=\"\" class=\"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8\"><div data-v-4a124ba2=\"\" class=\"text-center mb-12\"><h2 data-v-4a124ba2=\"\" class=\"text-3xl md:text-4xl font-bold font-secondary text-secondary mb-3\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Compañías con las que trabajamos </h2><p data-v-4a124ba2=\"\" class=\"text-lg text-secondary font-secondary max-w-2xl mx-auto\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Empresas líderes en logística y transporte en toda la región confían en Bacs para su protección. </p></div></div><div data-v-4a124ba2=\"\" class=\"carousel-container w-screen left-1/2 right-1/2 -ml-[50vw] -mr-[50vw] py-8 sm:py-12\"><div data-v-4a124ba2=\"\" class=\"swiper swiper-initialized swiper-horizontal w-full px-4 sm:px-6 lg:px-8\"><div class=\"swiper-wrapper\" style=\"transition-duration: 5000ms; transform: translate3d(-1568px, 0px, 0px);\"><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"10\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 6px;\"><img data-v-4a124ba2=\"\" src=\"/SancorSeguros.png\" alt=\"Sancor-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"11\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 6px;\"><img data-v-4a124ba2=\"\" src=\"/SanCristobal.png\" alt=\"San-Cristobal-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"12\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 6px;\"><img data-v-4a124ba2=\"\" src=\"/TriunfoSeguros.png\" alt=\"Triunfo-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"13\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/Afianzadora.jpeg\" alt=\"Afianzadora-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"14\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/ProvinciaART.png\" alt=\"ProvinciaART-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"0\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/Alba.png\" alt=\"Alba-Caución\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide swiper-slide-prev\" data-swiper-slide-index=\"1\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/Allianz.png\" alt=\"Allianz\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide swiper-slide-active\" data-swiper-slide-index=\"2\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/ARTprevencion.png\" alt=\"ART-Prevencion-Riesgos\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide swiper-slide-next\" data-swiper-slide-index=\"3\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 6px;\"><img data-v-4a124ba2=\"\" src=\"/EvolucionSeguros.png\" alt=\"Evolución-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"4\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/MercantilAndina.png\" alt=\"Mercantil-Andina\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"5\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/NacionSeguros.png\" alt=\"Nación-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"6\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/Premiar.png\" alt=\"Premiar-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"7\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 6px;\"><img data-v-4a124ba2=\"\" src=\"/PrevencionSalud.svg\" alt=\"Prevención-Salud\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"8\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 6px;\"><img data-v-4a124ba2=\"\" src=\"/Provicencia.png\" alt=\"Provicencia-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"9\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 6px;\"><img data-v-4a124ba2=\"\" src=\"/Rivadavia.png\" alt=\"Rivadavia-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div></div><!----><!----><!----></div></div><div data-v-4a124ba2=\"\" class=\"text-center mt-8 px-4\"><p data-v-4a124ba2=\"\" class=\"text-sm text-secondary font-secondary\"> Confían en nosotros más de 50 empresas en el sector logístico y de transporte </p></div></section>",
+    "rect": {
+      "x": 0,
+      "y": 198,
+      "width": 1692,
+      "height": 624
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1692px",
+      "height": "624px",
+      "padding": "96px 0px",
+      "border": "0px solid rgb(229, 231, 235)",
+      "box-sizing": "border-box",
+      "background": "rgb(249, 250, 251) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "hidden",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".overflow-hidden",
+        "css": "overflow: hidden;"
+      },
+      {
+        "selector": ".bg-gray-50",
+        "css": "--tw-bg-opacity: 1; background-color: rgb(249 250 251 / var(--tw-bg-opacity, 1));"
+      },
+      {
+        "selector": ".py-20",
+        "css": "padding-top: 5rem; padding-bottom: 5rem;"
+      },
+      {
+        "selector": ".md\\:py-24",
+        "css": "padding-top: 6rem; padding-bottom: 6rem;",
+        "media": "(min-width: 768px)"
+      }
+    ]
+  },
+  {
+    "id": "cap_mo7s0of2_oo6eiu",
+    "selector": "section#nosotros",
+    "label": "SOBRE NOSOTROS Seguros diseñados por exp…",
+    "tag": "section",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-20T22:38:30.302Z",
+    "innerText": "SOBRE NOSOTROS\n\nSeguros diseñados por expertos\n\nSomos especialistas en seguros para empresas logísticas y de transporte. Con más de 15 años de experiencia, entendemos los desafíos únicos del sector.\n\nNuestra misión es simple: ofrecer protección integral con procesos transparentes, cotizaciones rápidas y un equipo siempre disponible.\n\n50+\n\nEmpresas protegidas\n\n15+\n\nAños de expertise\n\n24/7\n\nSoporte disponible",
+    "outerHTML": "<section id=\"nosotros\" class=\"py-20 md:py-32 px-4 sm:px-6 lg:px-8 bg-white relative overflow-hidden\"><div class=\"absolute top-20 left-0 w-96 h-96 bg-blue-100 rounded-full blur-3xl opacity-15 -z-10\"></div><div class=\"absolute bottom-0 right-0 w-80 h-80 bg-blue-50 rounded-full blur-3xl opacity-20 -z-10\"></div><div class=\"max-w-6xl mx-auto relative z-10\"><div class=\"grid grid-cols-1 md:grid-cols-2 gap-12 lg:gap-16 items-center\"><div class=\"md:text-left text-center\"><p class=\"text-sm font-secondary text-primary uppercase tracking-widest mb-4 md:text-left text-center\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Sobre nosotros </p><h2 class=\"text-4xl md:text-5xl font-bold font-secondary text-secondary mb-6 leading-tight\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Seguros diseñados por expertos </h2><p class=\"text-lg text-secondary font-secondary mb-6 leading-relaxed opacity-80\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Somos especialistas en seguros para empresas logísticas y de transporte. Con más de 15 años de experiencia, entendemos los desafíos únicos del sector. </p><p class=\"text-lg text-secondary font-secondary mb-8 leading-relaxed opacity-80\"> Nuestra misión es simple: ofrecer protección integral con procesos transparentes, cotizaciones rápidas y un equipo siempre disponible. </p><div class=\"grid grid-cols-3 gap-8 pt-8 border-t border-gray-100\"><div class=\"stat-item text-center md:text-left\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 15px); opacity: 0;\"><div class=\"text-3xl font-bold text-primary font-primary\">50+</div><p class=\"text-sm text-secondary font-secondary opacity-70 mt-2\">Empresas protegidas</p></div><div class=\"stat-item text-center md:text-left\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 15px); opacity: 0;\"><div class=\"text-3xl font-bold text-primary font-primary\">15+</div><p class=\"text-sm text-secondary font-secondary opacity-70 mt-2\">Años de expertise</p></div><div class=\"stat-item text-center md:text-left\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 15px); opacity: 0;\"><div class=\"text-3xl font-bold text-primary font-primary\">24/7</div><p class=\"text-sm text-secondary font-secondary opacity-70 mt-2\">Soporte disponible</p></div></div></div><div class=\"relative rounded-3xl overflow-hidden\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 40px;\"><div class=\"absolute inset-0 bg-gradient-to-br from-blue-100 via-blue-50 to-transparent rounded-3xl blur-2xl opacity-40 -z-10\"></div><div class=\"bg-gradient-to-br from-blue-100 to-blue-50 rounded-3xl h-96 flex items-center justify-center relative border border-blue-100 shadow-xl overflow-hidden\"><img src=\"https://www.icontainers.com/static/ad4954fa171f0b811c89485d493d9383/801a4/Ocean_dc21ab4cae_a4334f978d.jpg\" alt=\"Logística\" class=\"w-full h-full object-cover rounded-2xl\"></div></div></div></div></section>",
+    "rect": {
+      "x": 0,
+      "y": 222,
+      "width": 1692,
+      "height": 740
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1692px",
+      "height": "740.167px",
+      "padding": "128px 32px",
+      "border": "0px solid rgb(229, 231, 235)",
+      "box-sizing": "border-box",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "hidden",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".relative",
+        "css": "position: relative;"
+      },
+      {
+        "selector": ".overflow-hidden",
+        "css": "overflow: hidden;"
+      },
+      {
+        "selector": ".bg-white",
+        "css": "--tw-bg-opacity: 1; background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));"
+      },
+      {
+        "selector": ".px-4",
+        "css": "padding-left: 1rem; padding-right: 1rem;"
+      },
+      {
+        "selector": ".py-20",
+        "css": "padding-top: 5rem; padding-bottom: 5rem;"
+      },
+      {
+        "selector": ".sm\\:px-6",
+        "css": "padding-left: 1.5rem; padding-right: 1.5rem;",
+        "media": "(min-width: 640px)"
+      },
+      {
+        "selector": ".md\\:py-32",
+        "css": "padding-top: 8rem; padding-bottom: 8rem;",
+        "media": "(min-width: 768px)"
+      },
+      {
+        "selector": ".lg\\:px-8",
+        "css": "padding-left: 2rem; padding-right: 2rem;",
+        "media": "(min-width: 1024px)"
+      }
+    ]
+  },
+  {
+    "id": "cap_mo7s0pvg_l91kdh",
+    "selector": "section#servicios",
+    "label": "NUESTROS SERVICIOS Cobertura Completa So…",
+    "tag": "section",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-20T22:38:32.188Z",
+    "innerText": "NUESTROS SERVICIOS\n\nCobertura Completa\n\nSoluciones especializadas diseñadas para proteger tu negocio logístico.\n\nResponsabilidad Civil\n\nCobertura integral ante daños causados a terceros durante el transporte.\n\nCobertura de Carga\n\nProtección total para tu mercancía en tránsito, sin importar el destino.\n\nSeguro de Vehículos\n\nCobertura completa para tu flota, incluyendo accidentes y robo.\n\nPaquetes Customizados\n\nDiseñamos coberturas a medida según las necesidades de tu empresa.",
+    "outerHTML": "<section id=\"servicios\" class=\"py-20 md:py-32 px-4 sm:px-6 lg:px-8 bg-gray-50 relative overflow-hidden\"><div class=\"max-w-7xl mx-auto relative z-10\"><div class=\"text-center mb-16\"><p class=\"text-sm font-secondary text-primary uppercase tracking-widest mb-4\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Nuestros Servicios </p><h2 class=\"text-4xl md:text-5xl font-bold font-secondary text-secondary mb-4\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Cobertura Completa </h2><p class=\"text-xl text-secondary font-secondary max-w-2xl mx-auto opacity-80\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Soluciones especializadas diseñadas para proteger tu negocio logístico. </p></div><div class=\"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 auto-rows-max\"><div data-service-card=\"\" class=\"h-full rounded-2xl overflow-hidden\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 30px); opacity: 0;\"><div class=\"h-full bg-white rounded-2xl p-8 shadow-sm border border-gray-100 hover:shadow-lg hover:border-primary transition-all duration-300 cursor-pointer group flex flex-col\"><div class=\"mb-6\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"30\" height=\"30\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M208,40H48A16,16,0,0,0,32,56v56c0,52.72,25.52,84.67,46.93,102.19,23.06,18.86,46,25.27,47,25.53a8,8,0,0,0,4.2,0c1-.26,23.91-6.67,47-25.53C198.48,196.67,224,164.72,224,112V56A16,16,0,0,0,208,40Zm0,16v56c0,2.71-.08,5.37-.23,8H136V56ZM48,56h72v64H48.23c-.15-2.63-.23-5.29-.23-8Zm2.06,80H120v84.55a130.85,130.85,0,0,1-30.93-18.74C67.92,184.51,54.87,162.44,50.08,136ZM167.4,201.42A131.31,131.31,0,0,1,136,220.53V136h69.91C201.16,162.24,188.27,184.18,167.4,201.42Z\"></path></g></svg></div><h3 class=\"text-xl font-bold text-seconday font-secondary mb-3\">Responsabilidad Civil</h3><p class=\"text-secondary text-sm font-secondary leading-relaxed\">Cobertura integral ante daños causados a terceros durante el transporte.</p></div></div><div data-service-card=\"\" class=\"h-full rounded-2xl overflow-hidden\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 30px); opacity: 0;\"><div class=\"h-full bg-white rounded-2xl p-8 shadow-sm border border-gray-100 hover:shadow-lg hover:border-primary transition-all duration-300 cursor-pointer group flex flex-col\"><div class=\"mb-6\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"30\" height=\"30\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M223.68,66.15,135.68,18a15.88,15.88,0,0,0-15.36,0l-88,48.17a16,16,0,0,0-8.32,14v95.64a16,16,0,0,0,8.32,14l88,48.17a15.88,15.88,0,0,0,15.36,0l88-48.17a16,16,0,0,0,8.32-14V80.18A16,16,0,0,0,223.68,66.15ZM128,32l80.34,44-29.77,16.3-80.35-44ZM128,120,47.66,76l33.9-18.56,80.34,44ZM40,90l80,43.78v85.79L40,175.82Zm176,85.78h0l-80,43.79V133.82l32-17.51V152a8,8,0,0,0,16,0V107.55L216,90v85.77Z\"></path></g></svg></div><h3 class=\"text-xl font-bold text-seconday font-secondary mb-3\">Cobertura de Carga</h3><p class=\"text-secondary text-sm font-secondary leading-relaxed\">Protección total para tu mercancía en tránsito, sin importar el destino.</p></div></div><div data-service-card=\"\" class=\"h-full rounded-2xl overflow-hidden\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 30px); opacity: 0;\"><div class=\"h-full bg-white rounded-2xl p-8 shadow-sm border border-gray-100 hover:shadow-lg hover:border-primary transition-all duration-300 cursor-pointer group flex flex-col\"><div class=\"mb-6\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"30\" height=\"30\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M255.42,117l-14-35A15.93,15.93,0,0,0,226.58,72H192V64a8,8,0,0,0-8-8H32A16,16,0,0,0,16,72V184a16,16,0,0,0,16,16H49a32,32,0,0,0,62,0h50a32,32,0,0,0,62,0h17a16,16,0,0,0,16-16V120A7.94,7.94,0,0,0,255.42,117ZM192,88h34.58l9.6,24H192ZM32,72H176v64H32ZM80,208a16,16,0,1,1,16-16A16,16,0,0,1,80,208Zm81-24H111a32,32,0,0,0-62,0H32V152H176v12.31A32.11,32.11,0,0,0,161,184Zm31,24a16,16,0,1,1,16-16A16,16,0,0,1,192,208Zm48-24H223a32.06,32.06,0,0,0-31-24V128h48Z\"></path></g></svg></div><h3 class=\"text-xl font-bold text-seconday font-secondary mb-3\">Seguro de Vehículos</h3><p class=\"text-secondary text-sm font-secondary leading-relaxed\">Cobertura completa para tu flota, incluyendo accidentes y robo.</p></div></div><div data-service-card=\"\" class=\"h-full rounded-2xl overflow-hidden\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 30px); opacity: 0;\"><div class=\"h-full bg-white rounded-2xl p-8 shadow-sm border border-gray-100 hover:shadow-lg hover:border-primary transition-all duration-300 cursor-pointer group flex flex-col\"><div class=\"mb-6\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"30\" height=\"30\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M152,120H136V56h8a32,32,0,0,1,32,32,8,8,0,0,0,16,0,48.05,48.05,0,0,0-48-48h-8V24a8,8,0,0,0-16,0V40h-8a48,48,0,0,0,0,96h8v64H104a32,32,0,0,1-32-32,8,8,0,0,0-16,0,48.05,48.05,0,0,0,48,48h16v16a8,8,0,0,0,16,0V216h16a48,48,0,0,0,0-96Zm-40,0a32,32,0,0,1,0-64h8v64Zm40,80H136V136h16a32,32,0,0,1,0,64Z\"></path></g></svg></div><h3 class=\"text-xl font-bold text-seconday font-secondary mb-3\">Paquetes Customizados</h3><p class=\"text-secondary text-sm font-secondary leading-relaxed\">Diseñamos coberturas a medida según las necesidades de tu empresa.</p></div></div></div></div></section>",
+    "rect": {
+      "x": 0,
+      "y": 362,
+      "width": 1692,
+      "height": 676
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1692px",
+      "height": "675.583px",
+      "padding": "128px 32px",
+      "border": "0px solid rgb(229, 231, 235)",
+      "box-sizing": "border-box",
+      "background": "rgb(249, 250, 251) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "hidden",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".relative",
+        "css": "position: relative;"
+      },
+      {
+        "selector": ".overflow-hidden",
+        "css": "overflow: hidden;"
+      },
+      {
+        "selector": ".bg-gray-50",
+        "css": "--tw-bg-opacity: 1; background-color: rgb(249 250 251 / var(--tw-bg-opacity, 1));"
+      },
+      {
+        "selector": ".px-4",
+        "css": "padding-left: 1rem; padding-right: 1rem;"
+      },
+      {
+        "selector": ".py-20",
+        "css": "padding-top: 5rem; padding-bottom: 5rem;"
+      },
+      {
+        "selector": ".sm\\:px-6",
+        "css": "padding-left: 1.5rem; padding-right: 1.5rem;",
+        "media": "(min-width: 640px)"
+      },
+      {
+        "selector": ".md\\:py-32",
+        "css": "padding-top: 8rem; padding-bottom: 8rem;",
+        "media": "(min-width: 768px)"
+      },
+      {
+        "selector": ".lg\\:px-8",
+        "css": "padding-left: 2rem; padding-right: 2rem;",
+        "media": "(min-width: 1024px)"
+      }
+    ]
+  },
+  {
+    "id": "cap_mo7s0qyq_b0meu5",
+    "selector": "section#servicios",
+    "label": "NUESTROS SERVICIOS Cobertura Completa So…",
+    "tag": "section",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-20T22:38:33.602Z",
+    "innerText": "NUESTROS SERVICIOS\n\nCobertura Completa\n\nSoluciones especializadas diseñadas para proteger tu negocio logístico.\n\nResponsabilidad Civil\n\nCobertura integral ante daños causados a terceros durante el transporte.\n\nCobertura de Carga\n\nProtección total para tu mercancía en tránsito, sin importar el destino.\n\nSeguro de Vehículos\n\nCobertura completa para tu flota, incluyendo accidentes y robo.\n\nPaquetes Customizados\n\nDiseñamos coberturas a medida según las necesidades de tu empresa.",
+    "outerHTML": "<section id=\"servicios\" class=\"py-20 md:py-32 px-4 sm:px-6 lg:px-8 bg-gray-50 relative overflow-hidden\"><div class=\"max-w-7xl mx-auto relative z-10\"><div class=\"text-center mb-16\"><p class=\"text-sm font-secondary text-primary uppercase tracking-widest mb-4\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Nuestros Servicios </p><h2 class=\"text-4xl md:text-5xl font-bold font-secondary text-secondary mb-4\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Cobertura Completa </h2><p class=\"text-xl text-secondary font-secondary max-w-2xl mx-auto opacity-80\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Soluciones especializadas diseñadas para proteger tu negocio logístico. </p></div><div class=\"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 auto-rows-max\"><div data-service-card=\"\" class=\"h-full rounded-2xl overflow-hidden\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><div class=\"h-full bg-white rounded-2xl p-8 shadow-sm border border-gray-100 hover:shadow-lg hover:border-primary transition-all duration-300 cursor-pointer group flex flex-col\"><div class=\"mb-6\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"30\" height=\"30\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M208,40H48A16,16,0,0,0,32,56v56c0,52.72,25.52,84.67,46.93,102.19,23.06,18.86,46,25.27,47,25.53a8,8,0,0,0,4.2,0c1-.26,23.91-6.67,47-25.53C198.48,196.67,224,164.72,224,112V56A16,16,0,0,0,208,40Zm0,16v56c0,2.71-.08,5.37-.23,8H136V56ZM48,56h72v64H48.23c-.15-2.63-.23-5.29-.23-8Zm2.06,80H120v84.55a130.85,130.85,0,0,1-30.93-18.74C67.92,184.51,54.87,162.44,50.08,136ZM167.4,201.42A131.31,131.31,0,0,1,136,220.53V136h69.91C201.16,162.24,188.27,184.18,167.4,201.42Z\"></path></g></svg></div><h3 class=\"text-xl font-bold text-seconday font-secondary mb-3\">Responsabilidad Civil</h3><p class=\"text-secondary text-sm font-secondary leading-relaxed\">Cobertura integral ante daños causados a terceros durante el transporte.</p></div></div><div data-service-card=\"\" class=\"h-full rounded-2xl overflow-hidden\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><div class=\"h-full bg-white rounded-2xl p-8 shadow-sm border border-gray-100 hover:shadow-lg hover:border-primary transition-all duration-300 cursor-pointer group flex flex-col\"><div class=\"mb-6\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"30\" height=\"30\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M223.68,66.15,135.68,18a15.88,15.88,0,0,0-15.36,0l-88,48.17a16,16,0,0,0-8.32,14v95.64a16,16,0,0,0,8.32,14l88,48.17a15.88,15.88,0,0,0,15.36,0l88-48.17a16,16,0,0,0,8.32-14V80.18A16,16,0,0,0,223.68,66.15ZM128,32l80.34,44-29.77,16.3-80.35-44ZM128,120,47.66,76l33.9-18.56,80.34,44ZM40,90l80,43.78v85.79L40,175.82Zm176,85.78h0l-80,43.79V133.82l32-17.51V152a8,8,0,0,0,16,0V107.55L216,90v85.77Z\"></path></g></svg></div><h3 class=\"text-xl font-bold text-seconday font-secondary mb-3\">Cobertura de Carga</h3><p class=\"text-secondary text-sm font-secondary leading-relaxed\">Protección total para tu mercancía en tránsito, sin importar el destino.</p></div></div><div data-service-card=\"\" class=\"h-full rounded-2xl overflow-hidden\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><div class=\"h-full bg-white rounded-2xl p-8 shadow-sm border border-gray-100 hover:shadow-lg hover:border-primary transition-all duration-300 cursor-pointer group flex flex-col\"><div class=\"mb-6\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"30\" height=\"30\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M255.42,117l-14-35A15.93,15.93,0,0,0,226.58,72H192V64a8,8,0,0,0-8-8H32A16,16,0,0,0,16,72V184a16,16,0,0,0,16,16H49a32,32,0,0,0,62,0h50a32,32,0,0,0,62,0h17a16,16,0,0,0,16-16V120A7.94,7.94,0,0,0,255.42,117ZM192,88h34.58l9.6,24H192ZM32,72H176v64H32ZM80,208a16,16,0,1,1,16-16A16,16,0,0,1,80,208Zm81-24H111a32,32,0,0,0-62,0H32V152H176v12.31A32.11,32.11,0,0,0,161,184Zm31,24a16,16,0,1,1,16-16A16,16,0,0,1,192,208Zm48-24H223a32.06,32.06,0,0,0-31-24V128h48Z\"></path></g></svg></div><h3 class=\"text-xl font-bold text-seconday font-secondary mb-3\">Seguro de Vehículos</h3><p class=\"text-secondary text-sm font-secondary leading-relaxed\">Cobertura completa para tu flota, incluyendo accidentes y robo.</p></div></div><div data-service-card=\"\" class=\"h-full rounded-2xl overflow-hidden\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><div class=\"h-full bg-white rounded-2xl p-8 shadow-sm border border-gray-100 hover:shadow-lg hover:border-primary transition-all duration-300 cursor-pointer group flex flex-col\"><div class=\"mb-6\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"30\" height=\"30\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M152,120H136V56h8a32,32,0,0,1,32,32,8,8,0,0,0,16,0,48.05,48.05,0,0,0-48-48h-8V24a8,8,0,0,0-16,0V40h-8a48,48,0,0,0,0,96h8v64H104a32,32,0,0,1-32-32,8,8,0,0,0-16,0,48.05,48.05,0,0,0,48,48h16v16a8,8,0,0,0,16,0V216h16a48,48,0,0,0,0-96Zm-40,0a32,32,0,0,1,0-64h8v64Zm40,80H136V136h16a32,32,0,0,1,0,64Z\"></path></g></svg></div><h3 class=\"text-xl font-bold text-seconday font-secondary mb-3\">Paquetes Customizados</h3><p class=\"text-secondary text-sm font-secondary leading-relaxed\">Diseñamos coberturas a medida según las necesidades de tu empresa.</p></div></div></div></div></section>",
+    "rect": {
+      "x": 0,
+      "y": -438,
+      "width": 1692,
+      "height": 676
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1692px",
+      "height": "675.583px",
+      "padding": "128px 32px",
+      "border": "0px solid rgb(229, 231, 235)",
+      "box-sizing": "border-box",
+      "background": "rgb(249, 250, 251) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "hidden",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".relative",
+        "css": "position: relative;"
+      },
+      {
+        "selector": ".overflow-hidden",
+        "css": "overflow: hidden;"
+      },
+      {
+        "selector": ".bg-gray-50",
+        "css": "--tw-bg-opacity: 1; background-color: rgb(249 250 251 / var(--tw-bg-opacity, 1));"
+      },
+      {
+        "selector": ".px-4",
+        "css": "padding-left: 1rem; padding-right: 1rem;"
+      },
+      {
+        "selector": ".py-20",
+        "css": "padding-top: 5rem; padding-bottom: 5rem;"
+      },
+      {
+        "selector": ".sm\\:px-6",
+        "css": "padding-left: 1.5rem; padding-right: 1.5rem;",
+        "media": "(min-width: 640px)"
+      },
+      {
+        "selector": ".md\\:py-32",
+        "css": "padding-top: 8rem; padding-bottom: 8rem;",
+        "media": "(min-width: 768px)"
+      },
+      {
+        "selector": ".lg\\:px-8",
+        "css": "padding-left: 2rem; padding-right: 2rem;",
+        "media": "(min-width: 1024px)"
+      }
+    ]
+  },
+  {
+    "id": "cap_mo7s0rz9_ctgm9c",
+    "selector": "section#contacto",
+    "label": "Contacto Tu solución de seguros logístic…",
+    "tag": "section",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-20T22:38:34.917Z",
+    "innerText": "Contacto\n\nTu solución de seguros logísticos está a un mensaje de distancia\n\nTELÉFONO\n\n+54 9 11 2168-3226\n\nEMAIL\n\ncotizaciones@bacsbroker.com\n\nUBICACIÓN\n\nLATAM Region\n\nNombre *\nEmail *\nTeléfono *\nEmpresa *\nMensaje *\nEnviar",
+    "outerHTML": "<section data-v-f691554e=\"\" id=\"contacto\" class=\"contact-bg py-20 md:py-32 px-4 sm:px-6 lg:px-8 relative\"><div data-v-f691554e=\"\" class=\"max-w-5xl mx-auto relative z-10\"><div data-v-f691554e=\"\" class=\"text-center mb-20\"><h2 data-v-f691554e=\"\" class=\"text-4xl md:text-5xl font-bold font-secondary text-secondary mb-3\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Contacto </h2><p data-v-f691554e=\"\" class=\"text-lg text-secondary/70 font-secondary max-w-2xl mx-auto\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Tu solución de seguros logísticos está a un mensaje de distancia </p></div><div data-v-f691554e=\"\" class=\"grid grid-cols-1 lg:grid-cols-5 gap-16 h-full\"><div data-v-f691554e=\"\" class=\"lg:col-span-2 space-y-6 flex flex-col justify-start\"><div data-v-f691554e=\"\" data-contact-card=\"\" class=\"group cursor-pointer\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><a data-v-f691554e=\"\" href=\"tel:+5491121683226\" target=\"_blank\" class=\"flex flex-col items-start gap-3 p-5 rounded-xl backdrop-blur-md bg-white/20 border border-white/40 hover:bg-white/30 hover:border-white/60 transition-all duration-300\"><svg data-v-f691554e=\"\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"24\" height=\"24\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M222.37,158.46l-47.11-21.11-.13-.06a16,16,0,0,0-15.17,1.4,8.12,8.12,0,0,0-.75.56L134.87,160c-15.42-7.49-31.34-23.29-38.83-38.51l20.78-24.71c.2-.25.39-.5.57-.77a16,16,0,0,0,1.32-15.06l0-.12L97.54,33.64a16,16,0,0,0-16.62-9.52A56.26,56.26,0,0,0,32,80c0,79.4,64.6,144,144,144a56.26,56.26,0,0,0,55.88-48.92A16,16,0,0,0,222.37,158.46ZM176,208A128.14,128.14,0,0,1,48,80,40.2,40.2,0,0,1,82.87,40a.61.61,0,0,0,0,.12l21,47L83.2,111.86a6.13,6.13,0,0,0-.57.77,16,16,0,0,0-1,15.7c9.06,18.53,27.73,37.06,46.46,46.11a16,16,0,0,0,15.75-1.14,8.44,8.44,0,0,0,.74-.56L168.89,152l47,21.05h0s.08,0,.11,0A40.21,40.21,0,0,1,176,208Z\"></path></g></svg><div data-v-f691554e=\"\"><p data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/60 mb-1 uppercase tracking-wide\">Teléfono</p><p data-v-f691554e=\"\" class=\"font-primary font-semibold text-secondary text-sm group-hover:text-primary transition-colors\">+54 9 11 2168-3226</p></div></a></div><div data-v-f691554e=\"\" data-contact-card=\"\" class=\"group cursor-pointer\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><a data-v-f691554e=\"\" href=\"mailto:cotizaciones@bacsbroker.com\" target=\"_blank\" class=\"flex flex-col items-start gap-3 p-5 rounded-xl backdrop-blur-md bg-white/20 border border-white/40 hover:bg-white/30 hover:border-white/60 transition-all duration-300\"><svg data-v-f691554e=\"\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"24\" height=\"24\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48Zm-96,85.15L52.57,64H203.43ZM98.71,128,40,181.81V74.19Zm11.84,10.85,12,11.05a8,8,0,0,0,10.82,0l12-11.05,58,53.15H52.57ZM157.29,128,216,74.18V181.82Z\"></path></g></svg><div data-v-f691554e=\"\"><p data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/60 mb-1 uppercase tracking-wide\">Email</p><p data-v-f691554e=\"\" class=\"font-primary font-semibold text-secondary text-sm group-hover:text-primary transition-colors\">cotizaciones@bacsbroker.com</p></div></a></div><div data-v-f691554e=\"\" data-contact-card=\"\" class=\"group cursor-pointer\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><div data-v-f691554e=\"\" class=\"flex flex-col items-start gap-3 p-5 rounded-xl backdrop-blur-md bg-white/20 border border-white/40\"><svg data-v-f691554e=\"\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"24\" height=\"24\" fill=\"#0128ec\"><g><path d=\"M128,64a40,40,0,1,0,40,40A40,40,0,0,0,128,64Zm0,64a24,24,0,1,1,24-24A24,24,0,0,1,128,128Zm0-112a88.1,88.1,0,0,0-88,88c0,31.4,14.51,64.68,42,96.25a254.19,254.19,0,0,0,41.45,38.3,8,8,0,0,0,9.18,0A254.19,254.19,0,0,0,174,200.25c27.45-31.57,42-64.85,42-96.25A88.1,88.1,0,0,0,128,16Zm0,206c-16.53-13-72-60.75-72-118a72,72,0,0,1,144,0C200,161.23,144.53,209,128,222Z\"></path></g></svg><div data-v-f691554e=\"\"><p data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/60 mb-1 uppercase tracking-wide\">Ubicación</p><p data-v-f691554e=\"\" class=\"font-primary font-semibold text-secondary text-sm\">LATAM Region</p></div></div></div></div><div data-v-f691554e=\"\" class=\"lg:col-span-3 flex flex-col justify-start\"><form data-v-f691554e=\"\" class=\"space-y-5\"><div data-v-f691554e=\"\" class=\"grid grid-cols-1 md:grid-cols-2 gap-4\"><div data-v-f691554e=\"\" data-form-input=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><label data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/70 mb-1 block\">Nombre <span data-v-f691554e=\"\" class=\"text-red-500\">*</span></label><input data-v-f691554e=\"\" type=\"text\" placeholder=\"Tu nombre\" class=\"form-input\"><!----></div><div data-v-f691554e=\"\" data-form-input=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><label data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/70 mb-1 block\">Email <span data-v-f691554e=\"\" class=\"text-red-500\">*</span></label><input data-v-f691554e=\"\" type=\"email\" placeholder=\"tu@email.com\" class=\"form-input\"><!----></div></div><div data-v-f691554e=\"\" class=\"grid grid-cols-1 md:grid-cols-2 gap-4\"><div data-v-f691554e=\"\" data-form-input=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><label data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/70 mb-1 block\">Teléfono <span data-v-f691554e=\"\" class=\"text-red-500\">*</span></label><input data-v-f691554e=\"\" type=\"tel\" placeholder=\"+54 9 11 XXXX-XXXX\" class=\"form-input\"><!----></div><div data-v-f691554e=\"\" data-form-input=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><label data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/70 mb-1 block\">Empresa <span data-v-f691554e=\"\" class=\"text-red-500\">*</span></label><input data-v-f691554e=\"\" type=\"text\" placeholder=\"Nombre de tu empresa\" class=\"form-input\"><!----></div></div><div data-v-f691554e=\"\" data-form-input=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><label data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/70 mb-1 block\">Mensaje <span data-v-f691554e=\"\" class=\"text-red-500\">*</span></label><textarea data-v-f691554e=\"\" placeholder=\"Tu mensaje (mínimo 10 caracteres)\" rows=\"4\" class=\"form-input resize-none\"></textarea><!----></div><button data-v-f691554e=\"\" type=\"submit\" disabled=\"\" class=\"w-full px-6 py-3 bg-primary text-white font-primary font-semibold text-sm rounded-full transition-all duration-300 opacity-50 cursor-not-allowed bg-gray-400\"> Enviar </button></form></div></div></div></section>",
+    "rect": {
+      "x": 0,
+      "y": 287,
+      "width": 1692,
+      "height": 824
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1692px",
+      "height": "824px",
+      "padding": "128px 32px",
+      "border": "0px solid rgb(229, 231, 235)",
+      "box-sizing": "border-box",
+      "background": "rgb(247, 249, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "hidden",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".relative",
+        "css": "position: relative;"
+      },
+      {
+        "selector": ".px-4",
+        "css": "padding-left: 1rem; padding-right: 1rem;"
+      },
+      {
+        "selector": ".py-20",
+        "css": "padding-top: 5rem; padding-bottom: 5rem;"
+      },
+      {
+        "selector": ".sm\\:px-6",
+        "css": "padding-left: 1.5rem; padding-right: 1.5rem;",
+        "media": "(min-width: 640px)"
+      },
+      {
+        "selector": ".md\\:py-32",
+        "css": "padding-top: 8rem; padding-bottom: 8rem;",
+        "media": "(min-width: 768px)"
+      },
+      {
+        "selector": ".lg\\:px-8",
+        "css": "padding-left: 2rem; padding-right: 2rem;",
+        "media": "(min-width: 1024px)"
+      },
+      {
+        "selector": ".contact-bg[data-v-f691554e]",
+        "css": "position: relative; background: rgb(247, 249, 255); overflow: hidden;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mo7s0tmg_mubx78",
+    "selector": "div.py-16",
+    "label": "Seguros especializados para empresas de …",
+    "tag": "div",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-20T22:38:37.049Z",
+    "innerText": "Seguros especializados para empresas de logística y transporte.\n\nEnlaces\nInicio\nNosotros\nServicios\nContacto\nContacto\n\nTeléfono\n\n+54 9 11 2168-3226\n\nEmail\n\ncotizaciones@bacsbroker.com\n\nSeguínos",
+    "outerHTML": "<div class=\"py-16 md:py-20 px-4 sm:px-6 lg:px-8 border-b border-white border-opacity-10\"><div class=\"max-w-7xl mx-auto\"><div class=\"flex md:grid md:grid-cols-4 gap-6 md:gap-12 overflow-x-auto md:overflow-visible\"><div class=\"md:col-span-1 flex-shrink-0 w-48 md:w-auto\"><img src=\"/BacsLogoBlanco.png\" alt=\"Bacs Logo\" class=\"h-12 w-auto mb-4 opacity-90 hover:opacity-100 transition-opacity\"><p class=\"text-sm font-secondary opacity-70 leading-relaxed\"> Seguros especializados para empresas de logística y transporte. </p></div><div class=\"flex-shrink-0 w-40 md:w-auto\"><h3 class=\"font-primary font-bold text-lg mb-6\">Enlaces</h3><ul class=\"space-y-3\"><li><a href=\"#home\" class=\"text-sm font-secondary opacity-70 hover:opacity-100 hover:text-primary transition-all duration-200\">Inicio</a></li><li><a href=\"#nosotros\" class=\"text-sm font-secondary opacity-70 hover:opacity-100 hover:text-primary transition-all duration-200\">Nosotros</a></li><li><a href=\"#servicios\" class=\"text-sm font-secondary opacity-70 hover:opacity-100 hover:text-primary transition-all duration-200\">Servicios</a></li><li><a href=\"#contacto\" class=\"text-sm font-secondary opacity-70 hover:opacity-100 hover:text-primary transition-all duration-200\">Contacto</a></li></ul></div><div class=\"flex-shrink-0 w-52 md:w-auto\"><h3 class=\"font-primary font-bold text-lg mb-6\">Contacto</h3><ul class=\"space-y-4\"><li class=\"flex items-start gap-3\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"20\" height=\"20\" fill=\"currentColor\" class=\"flex-shrink-0 mt-0.5\"><g><path d=\"M224,154.8l-47.09-21.11-.18-.08a19.94,19.94,0,0,0-19,1.75,13.08,13.08,0,0,0-1.12.84l-22.31,19c-13-7.05-26.43-20.37-33.49-33.21l19.06-22.66a11.76,11.76,0,0,0,.85-1.15,20,20,0,0,0,1.66-18.83,1.42,1.42,0,0,1-.08-.18L101.2,32A20.06,20.06,0,0,0,80.42,20.15,60.27,60.27,0,0,0,28,80c0,81.61,66.39,148,148,148a60.27,60.27,0,0,0,59.85-52.42A20.06,20.06,0,0,0,224,154.8ZM176,204A124.15,124.15,0,0,1,52,80,36.29,36.29,0,0,1,80.48,44.46l18.82,42L80.14,109.28a12,12,0,0,0-.86,1.16A20,20,0,0,0,78,130.08c9.42,19.28,28.83,38.56,48.31,48A20,20,0,0,0,146,176.63a11.63,11.63,0,0,0,1.11-.85l22.43-19.07,42,18.81A36.29,36.29,0,0,1,176,204Z\"></path></g></svg><div><p class=\"text-xs font-secondary opacity-60 mb-1\">Teléfono</p><p class=\"text-sm font-secondary opacity-90\">+54 9 11 2168-3226</p></div></li><li class=\"flex items-start gap-3\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"20\" height=\"20\" fill=\"currentColor\" class=\"flex-shrink-0 mt-0.5\"><g><path d=\"M224,44H32A12,12,0,0,0,20,56V192a20,20,0,0,0,20,20H216a20,20,0,0,0,20-20V56A12,12,0,0,0,224,44Zm-96,83.72L62.85,68h130.3ZM92.79,128,44,172.72V83.28Zm17.76,16.28,9.34,8.57a12,12,0,0,0,16.22,0l9.34-8.57L193.15,188H62.85ZM163.21,128,212,83.28v89.44Z\"></path></g></svg><div><p class=\"text-xs font-secondary opacity-60 mb-1\">Email</p><p class=\"text-sm font-secondary opacity-90\">cotizaciones@bacsbroker.com</p></div></li></ul></div><div class=\"flex-shrink-0 w-40 md:w-auto\"><h3 class=\"font-primary font-bold text-lg mb-6\">Seguínos</h3><div class=\"flex gap-4\"><a href=\"https://www.instagram.com/bacs.broker/\" title=\"Instagram\" class=\"w-10 h-10 rounded-lg bg-white bg-opacity-10 flex items-center justify-center hover:bg-opacity-20 transition-all duration-200 group\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"20\" height=\"20\" fill=\"currentColor\"><g><path d=\"M128,80a48,48,0,1,0,48,48A48.05,48.05,0,0,0,128,80Zm0,72a24,24,0,1,1,24-24A24,24,0,0,1,128,152ZM176,20H80A60.07,60.07,0,0,0,20,80v96a60.07,60.07,0,0,0,60,60h96a60.07,60.07,0,0,0,60-60V80A60.07,60.07,0,0,0,176,20Zm36,156a36,36,0,0,1-36,36H80a36,36,0,0,1-36-36V80A36,36,0,0,1,80,44h96a36,36,0,0,1,36,36ZM196,76a16,16,0,1,1-16-16A16,16,0,0,1,196,76Z\"></path></g></svg></a></div></div></div></div></div>",
+    "rect": {
+      "x": 0,
+      "y": 469,
+      "width": 1692,
+      "height": 345
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1692px",
+      "height": "344.667px",
+      "padding": "80px 32px",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(255, 255, 255)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".border-b",
+        "css": "border-bottom-width: 1px;"
+      },
+      {
+        "selector": ".border-white",
+        "css": "--tw-border-opacity: 1; border-color: rgb(255 255 255 / var(--tw-border-opacity, 1));"
+      },
+      {
+        "selector": ".border-opacity-10",
+        "css": "--tw-border-opacity: .1;"
+      },
+      {
+        "selector": ".px-4",
+        "css": "padding-left: 1rem; padding-right: 1rem;"
+      },
+      {
+        "selector": ".py-16",
+        "css": "padding-top: 4rem; padding-bottom: 4rem;"
+      },
+      {
+        "selector": ".sm\\:px-6",
+        "css": "padding-left: 1.5rem; padding-right: 1.5rem;",
+        "media": "(min-width: 640px)"
+      },
+      {
+        "selector": ".md\\:py-20",
+        "css": "padding-top: 5rem; padding-bottom: 5rem;",
+        "media": "(min-width: 768px)"
+      },
+      {
+        "selector": ".lg\\:px-8",
+        "css": "padding-left: 2rem; padding-right: 2rem;",
+        "media": "(min-width: 1024px)"
+      }
+    ]
+  },
+  {
+    "id": "cap_mo7s0uiy_l574hd",
+    "selector": "div.py-8",
+    "label": "© 2026 Bacs. Todos los derechos reservad…",
+    "tag": "div",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-20T22:38:38.218Z",
+    "innerText": "© 2026 Bacs. Todos los derechos reservados.\n\nDesarrollado por\n\nPrivacidad\nTérminos\nCookies",
+    "outerHTML": "<div class=\"py-8 px-4 sm:px-6 lg:px-8\"><div class=\"max-w-7xl mx-auto\"><div class=\"flex flex-col md:flex-row justify-between items-center gap-6\"><p class=\"font-secondary text-sm opacity-70 text-center md:text-left\"> © 2026 Bacs. Todos los derechos reservados. </p><div class=\"flex items-center justify-center gap-3\"><p class=\"text-xs font-secondary opacity-60\"> Desarrollado por </p><a href=\"https://web.seiminteractive.io/\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-flex items-center\" title=\"Visit developer website\"><img src=\"/SeimFooterBlanco.png\" alt=\"Seim Interactive\" class=\"h-5 w-auto rounded-md\"></a><a href=\"https://byloa.agency/\" class=\"inline-flex items-center\" title=\"Byloa Agency\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"/logotipos_logotipodescriptorv2%20negativo.png\" alt=\"Byloa Agency\" class=\"h-5 w-auto\"></a></div><div class=\"flex gap-6 text-xs font-secondary opacity-70\"><a href=\"#\" class=\"hover:opacity-100 transition-opacity\">Privacidad</a><a href=\"#\" class=\"hover:opacity-100 transition-opacity\">Términos</a><a href=\"#\" class=\"hover:opacity-100 transition-opacity\">Cookies</a></div></div></div></div>",
+    "rect": {
+      "x": 0,
+      "y": 814,
+      "width": 1692,
+      "height": 84
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1692px",
+      "height": "84px",
+      "padding": "32px",
+      "border": "0px solid rgb(229, 231, 235)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(255, 255, 255)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".px-4",
+        "css": "padding-left: 1rem; padding-right: 1rem;"
+      },
+      {
+        "selector": ".py-8",
+        "css": "padding-top: 2rem; padding-bottom: 2rem;"
+      },
+      {
+        "selector": ".sm\\:px-6",
+        "css": "padding-left: 1.5rem; padding-right: 1.5rem;",
+        "media": "(min-width: 640px)"
+      },
+      {
+        "selector": ".lg\\:px-8",
+        "css": "padding-left: 2rem; padding-right: 2rem;",
+        "media": "(min-width: 1024px)"
+      }
+    ]
+  }
+]

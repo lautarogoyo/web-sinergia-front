@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cap_mo7zj93q_ag2j5d",
+    "selector": "img.w-full",
+    "label": "img.w-full",
+    "tag": "img",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-21T02:08:54.230Z",
+    "innerText": "",
+    "outerHTML": "<img src=\"https://www.icontainers.com/static/ad4954fa171f0b811c89485d493d9383/801a4/Ocean_dc21ab4cae_a4334f978d.jpg\" alt=\"Logística\" class=\"w-full h-full object-cover rounded-2xl\">",
+    "rect": {
+      "x": 879,
+      "y": 189,
+      "width": 543,
+      "height": 383
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "542.667px",
+      "height": "382.667px",
+      "border": "0px solid rgb(229, 231, 235)",
+      "border-radius": "16px",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "clip",
+      "transition": "all",
+      "object-fit": "cover"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "img, svg, video, canvas, audio, iframe, embed, object",
+        "css": "display: block; vertical-align: middle;"
+      },
+      {
+        "selector": "img, video",
+        "css": "max-width: 100%; height: auto;"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".h-full",
+        "css": "height: 100%;"
+      },
+      {
+        "selector": ".w-full",
+        "css": "width: 100%;"
+      },
+      {
+        "selector": ".rounded-2xl",
+        "css": "border-radius: 1rem;"
+      },
+      {
+        "selector": ".object-cover",
+        "css": "object-fit: cover;"
+      }
+    ]
+  }
+]

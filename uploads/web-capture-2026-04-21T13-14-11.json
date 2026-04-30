@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cap_mo8nak89_lfnvk9",
+    "selector": "span.logo",
+    "label": "YPF",
+    "tag": "span",
+    "url": "https://3ca88ea2-3a42-4727-802a-ccd196564254.claudeusercontent.com/v1/design/projects/3ca88ea2-3a42-4727-802a-ccd196564254/serve/Sinergia%20CCI.html?t=43d60059f1a59d91b1ab91d89eae407a576c12b56275c2eccc4b6b7182245297.225fde94-7bfe-4984-a717-90739096d775.4334c3b8-dcac-4106-8b98-1a443704255f.1776779387#inicio",
+    "title": "Sinergia CCI — Consultoría integral",
+    "timestamp": "2026-04-21T13:13:59.530Z",
+    "innerText": "YPF",
+    "outerHTML": "<span class=\"logo\">YPF<span class=\"dotsep\"></span></span>",
+    "rect": {
+      "x": 311,
+      "y": 370,
+      "width": 160,
+      "height": 96
+    },
+    "computedStyles": {
+      "display": "flex",
+      "width": "160px",
+      "height": "96px",
+      "padding": "16px",
+      "border": "1px solid rgb(1, 40, 236)",
+      "border-radius": "12px",
+      "box-sizing": "border-box",
+      "box-shadow": "rgba(0, 0, 0, 0.14) 0px 28px 48px 0px",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(90, 84, 75)",
+      "font-family": "HelveticaNeue, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "font-size": "18px",
+      "line-height": "27.9px",
+      "letter-spacing": "-0.18px",
+      "text-align": "center",
+      "text-decoration": "none",
+      "white-space": "nowrap",
+      "flex": "0 0 auto",
+      "justify-content": "center",
+      "align-items": "center",
+      "transform": "matrix(1, 0, 0, 1, 0, -4)",
+      "transition": "opacity 0.3s, transform 0.3s, box-shadow 0.3s",
+      "cursor": "crosshair"
+    },
+    "cssRules": [
+      {
+        "selector": "*",
+        "css": "box-sizing: border-box; margin: 0px; padding: 0px;"
+      },
+      {
+        "selector": ".marquee .logo",
+        "css": "font-family: var(--serif); font-size: 18px; color: var(--ink-soft); letter-spacing: -0.01em; white-space: nowrap; display: flex; align-items: center; justify-content: center; width: 160px; height: 96px; flex-shrink: 0; background: rgb(255, 255, 255); border: 0.667px solid rgb(1, 40, 236); border-radius: 12px; box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 40px 0px; padding: 16px; opacity: 0.75; transition: opacity 0.3s, transform 0.3s, box-shadow 0.3s; text-align: center;"
+      },
+      {
+        "selector": ".marquee .logo:hover",
+        "css": "opacity: 1; transform: translateY(-4px); box-shadow: rgba(0, 0, 0, 0.14) 0px 28px 48px 0px;"
+      }
+    ]
+  }
+]

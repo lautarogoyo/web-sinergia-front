@@ -1,0 +1,224 @@
+[
+  {
+    "id": "cap_mok4xnb0_7s8s2h",
+    "selector": "div.carousel-container",
+    "label": "div.carousel-container",
+    "tag": "div",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-29T14:13:18.012Z",
+    "innerText": "",
+    "outerHTML": "<div data-v-4a124ba2=\"\" class=\"carousel-container w-screen left-1/2 right-1/2 -ml-[50vw] -mr-[50vw] py-8 sm:py-12\"><div data-v-4a124ba2=\"\" class=\"swiper swiper-initialized swiper-horizontal w-full px-4 sm:px-6 lg:px-8\"><div class=\"swiper-wrapper\" style=\"transition-duration: 5000ms; transform: translate3d(-448px, 0px, 0px);\"><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"0\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/Alba.png\" alt=\"Alba-Caución\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide swiper-slide-prev\" data-swiper-slide-index=\"1\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/Allianz.png\" alt=\"Allianz\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide swiper-slide-active\" data-swiper-slide-index=\"2\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 6px;\"><img data-v-4a124ba2=\"\" src=\"/ARTprevencion.png\" alt=\"ART-Prevencion-Riesgos\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide swiper-slide-next\" data-swiper-slide-index=\"3\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 6px;\"><img data-v-4a124ba2=\"\" src=\"/EvolucionSeguros.png\" alt=\"Evolución-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"4\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/MercantilAndina.png\" alt=\"Mercantil-Andina\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"5\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/NacionSeguros.png\" alt=\"Nación-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"6\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/Premiar.png\" alt=\"Premiar-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"7\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/PrevencionSalud.svg\" alt=\"Prevención-Salud\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"8\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/Provicencia.png\" alt=\"Provicencia-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"9\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/Rivadavia.png\" alt=\"Rivadavia-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"10\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/SancorSeguros.png\" alt=\"Sancor-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"11\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/SanCristobal.png\" alt=\"San-Cristobal-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"12\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/TriunfoSeguros.png\" alt=\"Triunfo-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"13\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/Afianzadora.jpeg\" alt=\"Afianzadora-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div><div data-v-4a124ba2=\"\" class=\"swiper-slide\" data-swiper-slide-index=\"14\" style=\"margin-right: 32px;\"><div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><img data-v-4a124ba2=\"\" src=\"/ProvinciaART.png\" alt=\"ProvinciaART-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div><!----></div></div><!----><!----><!----></div></div>",
+    "rect": {
+      "x": -7,
+      "y": 263,
+      "width": 1920,
+      "height": 224
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "952.5px",
+      "bottom": "0px",
+      "left": "952.5px",
+      "width": "1920px",
+      "height": "224px",
+      "margin": "0px -960px",
+      "padding": "48px 0px",
+      "border": "0px solid rgb(229, 231, 235)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "overflow": "hidden",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".left-1\\/2",
+        "css": "left: 50%;"
+      },
+      {
+        "selector": ".right-1\\/2",
+        "css": "right: 50%;"
+      },
+      {
+        "selector": ".-ml-\\[50vw\\]",
+        "css": "margin-left: -50vw;"
+      },
+      {
+        "selector": ".-mr-\\[50vw\\]",
+        "css": "margin-right: -50vw;"
+      },
+      {
+        "selector": ".w-screen",
+        "css": "width: 100vw;"
+      },
+      {
+        "selector": ".py-8",
+        "css": "padding-top: 2rem; padding-bottom: 2rem;"
+      },
+      {
+        "selector": ".sm\\:py-12",
+        "css": "padding-top: 3rem; padding-bottom: 3rem;",
+        "media": "(min-width: 640px)"
+      },
+      {
+        "selector": ".carousel-container[data-v-4a124ba2]",
+        "css": "position: relative; overflow: hidden;"
+      }
+    ]
+  },
+  {
+    "id": "cap_mok4xpbf_u02x8l",
+    "selector": "div.client-card",
+    "label": "div.client-card",
+    "tag": "div",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-29T14:13:20.620Z",
+    "innerText": "",
+    "outerHTML": "<div data-v-4a124ba2=\"\" class=\"client-card bg-white rounded-xl p-3 sm:p-6 h-24 sm:h-32 w-32 sm:w-40 lg:w-48 flex items-center justify-center shadow-sm hover:shadow-md transition-all duration-300 border border-gray-100 hover:border-primary group flex-shrink-0\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, -8px); opacity: 1; box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 40px;\"><img data-v-4a124ba2=\"\" src=\"/EvolucionSeguros.png\" alt=\"Evolución-Seguros\" class=\"max-w-full max-h-full object-contain opacity-60 group-hover:opacity-100 transition-opacity duration-300\"></div>",
+    "rect": {
+      "x": 295,
+      "y": 303,
+      "width": 192,
+      "height": 128
+    },
+    "computedStyles": {
+      "display": "flex",
+      "width": "192px",
+      "height": "128px",
+      "padding": "24px",
+      "border": "1px solid rgb(1, 40, 236)",
+      "border-radius": "12px",
+      "box-sizing": "border-box",
+      "box-shadow": "rgba(0, 0, 0, 0.1) 0px 20px 40px 0px",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "flex": "0 0 auto",
+      "justify-content": "center",
+      "align-items": "center",
+      "transform": "matrix(1, 0, 0, 1, 0, -8)",
+      "transition": "0.3s cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".flex",
+        "css": "display: flex;"
+      },
+      {
+        "selector": ".h-24",
+        "css": "height: 6rem;"
+      },
+      {
+        "selector": ".w-32",
+        "css": "width: 8rem;"
+      },
+      {
+        "selector": ".flex-shrink-0",
+        "css": "flex-shrink: 0;"
+      },
+      {
+        "selector": ".items-center",
+        "css": "align-items: center;"
+      },
+      {
+        "selector": ".justify-center",
+        "css": "justify-content: center;"
+      },
+      {
+        "selector": ".rounded-xl",
+        "css": "border-radius: 0.75rem;"
+      },
+      {
+        "selector": ".border",
+        "css": "border-width: 1px;"
+      },
+      {
+        "selector": ".border-gray-100",
+        "css": "--tw-border-opacity: 1; border-color: rgb(243 244 246 / var(--tw-border-opacity, 1));"
+      },
+      {
+        "selector": ".bg-white",
+        "css": "--tw-bg-opacity: 1; background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));"
+      },
+      {
+        "selector": ".p-3",
+        "css": "padding: 0.75rem;"
+      },
+      {
+        "selector": ".shadow-sm",
+        "css": "--tw-shadow: 0 1px 2px 0 rgb(0 0 0 / .05); --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow);"
+      },
+      {
+        "selector": ".transition-all",
+        "css": "transition-property: all; transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); transition-duration: 0.15s;"
+      },
+      {
+        "selector": ".duration-300",
+        "css": "transition-duration: 0.3s;"
+      },
+      {
+        "selector": ".hover\\:border-primary:hover",
+        "css": "border-color: var(--color-primary);"
+      },
+      {
+        "selector": ".hover\\:shadow-md:hover",
+        "css": "--tw-shadow: 0 4px 6px -1px rgb(0 0 0 / .1), 0 2px 4px -2px rgb(0 0 0 / .1); --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow);"
+      },
+      {
+        "selector": ".sm\\:h-32",
+        "css": "height: 8rem;",
+        "media": "(min-width: 640px)"
+      },
+      {
+        "selector": ".sm\\:w-40",
+        "css": "width: 10rem;",
+        "media": "(min-width: 640px)"
+      },
+      {
+        "selector": ".sm\\:p-6",
+        "css": "padding: 1.5rem;",
+        "media": "(min-width: 640px)"
+      },
+      {
+        "selector": ".lg\\:w-48",
+        "css": "width: 12rem;",
+        "media": "(min-width: 1024px)"
+      }
+    ]
+  }
+]

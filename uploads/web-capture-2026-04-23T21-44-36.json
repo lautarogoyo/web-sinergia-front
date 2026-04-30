@@ -1,0 +1,70 @@
+[
+  {
+    "id": "cap_moc0epa8_he6to8",
+    "selector": "div.max-w-5xl",
+    "label": "Contacto Tu solución de seguros logístic…",
+    "tag": "div",
+    "url": "https://bacs-one.vercel.app/#home",
+    "title": "bacss",
+    "timestamp": "2026-04-23T21:44:26.240Z",
+    "innerText": "Contacto\n\nTu solución de seguros logísticos está a un mensaje de distancia\n\nTELÉFONO\n\n+54 9 11 2168-3226\n\nEMAIL\n\ncotizaciones@bacsbroker.com\n\nUBICACIÓN\n\nLATAM Region\n\nNombre *\nEmail *\nTeléfono *\nEmpresa *\nMensaje *\nEnviar",
+    "outerHTML": "<div data-v-f691554e=\"\" class=\"max-w-5xl mx-auto relative z-10\"><div data-v-f691554e=\"\" class=\"text-center mb-20\"><h2 data-v-f691554e=\"\" class=\"text-4xl md:text-5xl font-bold font-secondary text-secondary mb-3\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Contacto </h2><p data-v-f691554e=\"\" class=\"text-lg text-secondary/70 font-secondary max-w-2xl mx-auto\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"> Tu solución de seguros logísticos está a un mensaje de distancia </p></div><div data-v-f691554e=\"\" class=\"grid grid-cols-1 lg:grid-cols-5 gap-16 h-full\"><div data-v-f691554e=\"\" class=\"lg:col-span-2 space-y-6 flex flex-col justify-start\"><div data-v-f691554e=\"\" data-contact-card=\"\" class=\"group cursor-pointer\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><a data-v-f691554e=\"\" href=\"tel:+5491121683226\" target=\"_blank\" class=\"flex flex-col items-start gap-3 p-5 rounded-xl backdrop-blur-md bg-white/20 border border-white/40 hover:bg-white/30 hover:border-white/60 transition-all duration-300\"><svg data-v-f691554e=\"\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"24\" height=\"24\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M222.37,158.46l-47.11-21.11-.13-.06a16,16,0,0,0-15.17,1.4,8.12,8.12,0,0,0-.75.56L134.87,160c-15.42-7.49-31.34-23.29-38.83-38.51l20.78-24.71c.2-.25.39-.5.57-.77a16,16,0,0,0,1.32-15.06l0-.12L97.54,33.64a16,16,0,0,0-16.62-9.52A56.26,56.26,0,0,0,32,80c0,79.4,64.6,144,144,144a56.26,56.26,0,0,0,55.88-48.92A16,16,0,0,0,222.37,158.46ZM176,208A128.14,128.14,0,0,1,48,80,40.2,40.2,0,0,1,82.87,40a.61.61,0,0,0,0,.12l21,47L83.2,111.86a6.13,6.13,0,0,0-.57.77,16,16,0,0,0-1,15.7c9.06,18.53,27.73,37.06,46.46,46.11a16,16,0,0,0,15.75-1.14,8.44,8.44,0,0,0,.74-.56L168.89,152l47,21.05h0s.08,0,.11,0A40.21,40.21,0,0,1,176,208Z\"></path></g></svg><div data-v-f691554e=\"\"><p data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/60 mb-1 uppercase tracking-wide\">Teléfono</p><p data-v-f691554e=\"\" class=\"font-primary font-semibold text-secondary text-sm group-hover:text-primary transition-colors\">+54 9 11 2168-3226</p></div></a></div><div data-v-f691554e=\"\" data-contact-card=\"\" class=\"group cursor-pointer\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><a data-v-f691554e=\"\" href=\"mailto:cotizaciones@bacsbroker.com\" target=\"_blank\" class=\"flex flex-col items-start gap-3 p-5 rounded-xl backdrop-blur-md bg-white/20 border border-white/40 hover:bg-white/30 hover:border-white/60 transition-all duration-300\"><svg data-v-f691554e=\"\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"24\" height=\"24\" fill=\"#0128ec\" class=\"group-hover:scale-110 transition-transform duration-300\"><g><path d=\"M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48Zm-96,85.15L52.57,64H203.43ZM98.71,128,40,181.81V74.19Zm11.84,10.85,12,11.05a8,8,0,0,0,10.82,0l12-11.05,58,53.15H52.57ZM157.29,128,216,74.18V181.82Z\"></path></g></svg><div data-v-f691554e=\"\"><p data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/60 mb-1 uppercase tracking-wide\">Email</p><p data-v-f691554e=\"\" class=\"font-primary font-semibold text-secondary text-sm group-hover:text-primary transition-colors\">cotizaciones@bacsbroker.com</p></div></a></div><div data-v-f691554e=\"\" data-contact-card=\"\" class=\"group cursor-pointer\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><div data-v-f691554e=\"\" class=\"flex flex-col items-start gap-3 p-5 rounded-xl backdrop-blur-md bg-white/20 border border-white/40\"><svg data-v-f691554e=\"\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" width=\"24\" height=\"24\" fill=\"#0128ec\"><g><path d=\"M128,64a40,40,0,1,0,40,40A40,40,0,0,0,128,64Zm0,64a24,24,0,1,1,24-24A24,24,0,0,1,128,128Zm0-112a88.1,88.1,0,0,0-88,88c0,31.4,14.51,64.68,42,96.25a254.19,254.19,0,0,0,41.45,38.3,8,8,0,0,0,9.18,0A254.19,254.19,0,0,0,174,200.25c27.45-31.57,42-64.85,42-96.25A88.1,88.1,0,0,0,128,16Zm0,206c-16.53-13-72-60.75-72-118a72,72,0,0,1,144,0C200,161.23,144.53,209,128,222Z\"></path></g></svg><div data-v-f691554e=\"\"><p data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/60 mb-1 uppercase tracking-wide\">Ubicación</p><p data-v-f691554e=\"\" class=\"font-primary font-semibold text-secondary text-sm\">LATAM Region</p></div></div></div></div><div data-v-f691554e=\"\" class=\"lg:col-span-3 flex flex-col justify-start\"><form data-v-f691554e=\"\" class=\"space-y-5\"><div data-v-f691554e=\"\" class=\"grid grid-cols-1 md:grid-cols-2 gap-4\"><div data-v-f691554e=\"\" data-form-input=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><label data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/70 mb-1 block\">Nombre <span data-v-f691554e=\"\" class=\"text-red-500\">*</span></label><input data-v-f691554e=\"\" type=\"text\" placeholder=\"Tu nombre\" class=\"form-input\"><!----></div><div data-v-f691554e=\"\" data-form-input=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><label data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/70 mb-1 block\">Email <span data-v-f691554e=\"\" class=\"text-red-500\">*</span></label><input data-v-f691554e=\"\" type=\"email\" placeholder=\"tu@email.com\" class=\"form-input\"><!----></div></div><div data-v-f691554e=\"\" class=\"grid grid-cols-1 md:grid-cols-2 gap-4\"><div data-v-f691554e=\"\" data-form-input=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><label data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/70 mb-1 block\">Teléfono <span data-v-f691554e=\"\" class=\"text-red-500\">*</span></label><input data-v-f691554e=\"\" type=\"tel\" placeholder=\"+54 9 11 XXXX-XXXX\" class=\"form-input\"><!----></div><div data-v-f691554e=\"\" data-form-input=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><label data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/70 mb-1 block\">Empresa <span data-v-f691554e=\"\" class=\"text-red-500\">*</span></label><input data-v-f691554e=\"\" type=\"text\" placeholder=\"Nombre de tu empresa\" class=\"form-input\"><!----></div></div><div data-v-f691554e=\"\" data-form-input=\"\" style=\"translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;\"><label data-v-f691554e=\"\" class=\"text-xs font-secondary text-secondary/70 mb-1 block\">Mensaje <span data-v-f691554e=\"\" class=\"text-red-500\">*</span></label><textarea data-v-f691554e=\"\" placeholder=\"Tu mensaje (mínimo 10 caracteres)\" rows=\"4\" class=\"form-input resize-none\"></textarea><!----></div><button data-v-f691554e=\"\" type=\"submit\" disabled=\"\" class=\"w-full px-6 py-3 bg-primary text-white font-primary font-semibold text-sm rounded-full transition-all duration-300 opacity-50 cursor-not-allowed bg-gray-400\"> Enviar </button></form></div></div></div>",
+    "rect": {
+      "x": 334,
+      "y": 315,
+      "width": 1024,
+      "height": 568
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1024px",
+      "height": "568px",
+      "margin": "0px 302px",
+      "border": "0px solid rgb(229, 231, 235)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(39, 39, 40)",
+      "font-family": "HankRnd, sans-serif",
+      "font-size": "16px",
+      "line-height": "24px",
+      "text-decoration": "none",
+      "z-index": "10",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after",
+        "css": "--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "box-sizing: border-box; border-width: 0px; border-style: solid; border-color: rgb(229, 231, 235);"
+      },
+      {
+        "selector": "*",
+        "css": "margin: 0px; padding: 0px; box-sizing: border-box;"
+      },
+      {
+        "selector": ".relative",
+        "css": "position: relative;"
+      },
+      {
+        "selector": ".z-10",
+        "css": "z-index: 10;"
+      },
+      {
+        "selector": ".mx-auto",
+        "css": "margin-left: auto; margin-right: auto;"
+      },
+      {
+        "selector": ".max-w-5xl",
+        "css": "max-width: 64rem;"
+      }
+    ]
+  }
+]
